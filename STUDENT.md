@@ -1,13 +1,13 @@
 # Thông tin học viên
 
-- Họ và tên: <<>>
-- MSHV: <<>>
-- Lớp (L2 / L3 / khác): <<>>
-- Tài khoản GitHub: <<>>
-- Repo bài nộp (URL): <<>>
-- Commit chốt bài (hash): <<>>
-- Máy: <<hệ điều hành, GPU (CUDA / MPS / không có)>>
-- CVAT (Docker): <<phiên bản, ví dụ v2.81.0>>
+- Họ và tên: Mai Quang Khải
+- MSHV: 2A202603204
+- Lớp (L2 / L3 / khác): L23
+- Tài khoản GitHub: twilightzone2914
+- Repo bài nộp (URL): https://github.com/twilightzone2914/K5-L23-DAY08-2A202603204-MaiQuangKhai-AIPrelabel
+- Commit chốt bài (hash): <<pending final commit>>
+- Máy: Linux (Ubuntu), GPU NVIDIA GeForce RTX 3050 Laptop GPU (CUDA 13.2)
+- CVAT (Docker): v2.81.1 (http://127.0.0.1:8080)
 
 ## Kết quả tóm tắt (điền cuối bài; số lấy từ `submission/qc/*`, kèm mẫu số)
 
