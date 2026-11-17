@@ -1,0 +1,8 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,MaiQuangKhai,"22 đối tượng đúng quy tắc; xe tải nhỏ #15 ở xa gán truck đúng thực tế."
+img_006.jpg,,khong,MaiQuangKhai,"24 đối tượng và 2 vùng ignore_region (#94, #95) bao dãy xe đỗ dày đúng quy tắc."
+img_013.jpg,,khong,MaiQuangKhai,"9 đối tượng sạch; tuk-tuk #134 và người lái #135 tách riêng đúng mục 4.1.4."
+img_014.jpg,,khong,MaiQuangKhai,"19 đối tượng hợp lệ; ca can_review #136 ở sát mép phải vẫn thấy >20% thân người."
+img_017.jpg,,khong,MaiQuangKhai,"6 đối tượng (3 three_wheeler #157, #158, #159 và 3 person) ôm sát biên."
+img_022.jpg,272,thua,MaiQuangKhai,"Box #272 (person, conf=0.62) của YOLO26 bắt nhầm thùng hàng/sạp chợ dưới mái bạt còn sót khi duyệt."
+img_034.jpg,545,thua,MaiQuangKhai,"Box #545 (motorbike, conf=0.22) ở xa cao 17.4px < 20px, lẽ ra phải xoá hoặc gộp vào ignore_region."
